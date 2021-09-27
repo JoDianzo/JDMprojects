@@ -1,0 +1,54 @@
+body {
+    background-color: white;
+    margin: 0;
+}
+header {
+    position: sticky;
+    right: 0;
+    top: 0;
+    left: 0;
+    background: cadetblue;
+}
+.tete {
+    margin: 20px 0;
+}
+ul {
+    list-style-type: none;
+}
+ul li {
+    display: inline-block;
+}
+.ico2 {
+    position: absolute;
+    right: 40px;
+}
+.ico1 {
+    position: absolute;
+    right: 200px;
+}
+#fb {
+    color: #1277ee;
+    font-size: 100px;
+    font-weight: bold;
+}
+nav {
+    margin: 0;
+    padding-bottom: 35px;
+    border-bottom: 1px solid gray ;
+}
+nav li {
+    text-align: center;
+    padding: 0 55px;
+}
+/*
+    Taille des images
+*/
+.tete img {
+    width: 100px;
+}
+nav img {
+    width: 100px;
+}
+.img-acc {
+    width: 120px;
+}
